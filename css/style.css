@@ -40,6 +40,11 @@ h1{
     text-align: center;
     margin: 30px;
 }
+.box{
+    background: black;
+    width:300px;
+    
+}
 
 .foto {
     width: 100px;
@@ -49,5 +54,10 @@ h1{
     text-align: left;
     
 }
-   
-    
+
+h4{
+    font-family: 'Fredoka', sans-serif;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+}
