@@ -39,10 +39,14 @@ h1{
     color:#E53170;
     text-align: center;
     margin: 30px;
+    padding: 0 10px;
 }
 .box{
     background: black;
-    width:300px;
+    width: calc(100% / 3 - 100px);
+    float: left;
+    margin: 10px;
+    align:center;
     
 }
 
@@ -52,6 +56,7 @@ h1{
     float: left;
     display: inline;
     text-align: left;
+    padding:0 10px:
     
 }
 
@@ -59,5 +64,11 @@ h4{
     font-family: 'Fredoka', sans-serif;
     color: white;
     background-color: black;
-    padding-left: 10px;
+   
+}
+
+a {
+    text-align: right;
+    padding: 100px;
+    color:#45ABEA;
 }
