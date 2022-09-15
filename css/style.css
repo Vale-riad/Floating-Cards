@@ -17,14 +17,26 @@
     clear: both;
 }
 
-.container {
-    background: #fff;
-    max-width: 800px;
+.container{
+    max-width: 1080px;
+    min-width: 600px;
     margin: 0 auto;
-    border-radius: 5px;
+}
+
+p {
+    margin: 0;
+    padding-top: 10px;
+    margin: 0;;
+}
+
+p{
+    padding-top: 5px;
+    margin-bottom: 10px;
 }
 
 h1{
     font-family: 'Fredoka', sans-serif;
+    color:#E53170;
     text-align: center;
+    margin: 30px;
 }
